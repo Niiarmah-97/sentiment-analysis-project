@@ -1,4 +1,4 @@
-Domain of interest
+
 The domain of interest is Sentiment Analysis which focuses on customer reviews for Amazon Fine Foods.
 Problem Definition
 To understand and critically analyze the sentiments expressed by customers in their reviews of Amazon Fine Foods. This involves classifying reviews as positive, negative, and neutral to understand client satisfaction, opinions, and potential development areas.
